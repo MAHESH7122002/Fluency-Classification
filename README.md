@@ -34,8 +34,7 @@ Clips have been manually gathered from three sources:
 
 
 ## Download
-The dataset can be downloaded here : ![](https://drive.google.com/drive/folders/1RBfbE6ya6ZOsjKJb80vgbxfzhzYC4iiH?usp=sharing)
-
+The dataset can be downloaded here : https://drive.google.com/drive/folders/1RBfbE6ya6ZOsjKJb80vgbxfzhzYC4iiH?usp=sharing
 The audios can also be individually downloaded in the **audio files** folder.
  
 ## Audio features extracted
