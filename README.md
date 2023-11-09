@@ -37,21 +37,21 @@ Clips have been manually gathered from three sources:
 The dataset can be downloaded here : ![](https://drive.google.com/drive/folders/1RBfbE6ya6ZOsjKJb80vgbxfzhzYC4iiH?usp=sharing)
 
 The audios can also be individually downloaded in the **audio files** folder.
-
-**Audio features extracted**
+ 
+## Audio features extracted
 - MFCC
 - ZCR
 - Spectral Flux
 - Root Mean Square Energy
 
-**Classifiers implemented**
+## Classifiers implemented 
 - Support Vector Machine (SVM)
 - Random Forest (RF)
 - Convolutional Neural Network (CNN)
 - Multilayer Perceptron (MLP)
 - Recurrent Neural Network (RNN)
 
-**Accuracies obtained**
+## Accuracies obtained 
 **Note**: out of 1424 audio clips from the Avalinguo Audioset, with 30% test data, the reached accuracies are the following:
 - SVM: 94.39%
 - RF: 93.45%
